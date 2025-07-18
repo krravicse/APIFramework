@@ -1,0 +1,20 @@
+[
+  {
+    "id": 101,
+    "name": "Ravi Kumar",
+    "address": "42 MG Road, Sector 18",
+    "city": "Bangalore"
+  },
+  {
+    "id": 102,
+    "name": "Anjali Sharma",
+    "address": "Flat 301, Galaxy Apartments",
+    "city": "Mumbai"
+  },
+  {
+    "id": 103,
+    "name": "Vikram Mehta",
+    "address": "14 Park Street",
+    "city": "Delhi"
+  }
+]

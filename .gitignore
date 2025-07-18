@@ -1,0 +1,27 @@
+# Maven build output
+target/
+test-output/
+allure-results/
+.mvn/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Misc
+*.tmp
