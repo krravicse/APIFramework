@@ -19,7 +19,7 @@ public class GoRestUserAPISchemaTest extends BaseTest{
 	
 	@Test
 	public void getUsersAPISchemaTest() {	
-		ConfigManager.set("bearertoken", "e4b8e1f593dc4a731a153c5ec8cc9b8bbb583ae964ce650a741113091b4e2ac6");
+		
 		
 		Response response = restClient.get(BASE_URL_GOREST, GOREST_USERS_ENDPOINTS, null, null, AuthType.BEARER_TOKEN, ContentType.ANY);
 	
